@@ -14,7 +14,7 @@
 rcFile="${1:-/usr/local/rcfile.sh}"
 
 # Specify the amount of days before the snapshot should be removed 
-retentionDays=14
+retentionDays=3
 
 ###############################    
 # DO NOT EDIT BELOW THIS LINE #
